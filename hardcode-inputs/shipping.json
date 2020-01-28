@@ -1,0 +1,52 @@
+{
+  "ShippingMethod":[
+    {
+      "Value": 1,
+      "Name": "Container"
+    },
+    {
+      "Value": 2,
+      "Name": "Loosebale"
+    },
+    {
+      "Value": 3,
+      "Name": "Truck"
+    },
+    {
+      "Value": 4,
+      "Name": "Barge"
+    }
+  ],
+  "Weather":[
+    {
+      "Value": 1,
+      "Name": "Sunny"
+    },
+    {
+      "Value": 2,
+      "Name": "Cloudy"
+    },
+    {
+      "Value": 3,
+      "Name": "Drizzle"
+    },
+    {
+      "Value": 4,
+      "Name": "Heavy Rain"
+    }
+  ],
+  "StuffingLocation":[
+    {
+      "Value": 1,
+      "Name": "Factory"
+    },
+    {
+      "Value": 2,
+      "Name": "Seaport"
+    },
+    {
+      "Value": 3,
+      "Name": "Third party warehouse"
+    }
+  ]
+}

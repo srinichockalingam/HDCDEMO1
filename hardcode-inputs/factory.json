@@ -1,0 +1,36 @@
+{
+    "BusinessType":[
+        {
+            "Value": 1,
+            "Name": "Factory"
+        },
+        {
+            "Value": 2,
+            "Name": "Plantation"
+        }
+    ],
+    "ProcessType":[
+        {
+            "Value": 1,
+            "Name": "Direct Process"
+        },
+        {
+            "Value": 2,
+            "Name": "Drying House"
+        },
+        {
+            "Value": 3,
+            "Name": "DP"
+        }
+    ],
+    "ProcessTypeAfterDrying":[
+        {
+            "Value": 1,
+            "Name": "DP"
+        },
+        {
+            "Value": 2,
+            "Name": "Non DP"
+        }
+    ]
+}

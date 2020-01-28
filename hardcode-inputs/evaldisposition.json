@@ -1,0 +1,20 @@
+{
+    "EvalDisposition":[
+        {
+            "Value": 1,
+            "Name": "Insignificant"
+        },
+        {
+            "Value": 2,
+            "Name": "Minor"
+        },
+        {
+            "Value": 3,
+            "Name": "Major"
+        },
+        {
+            "Value": 4,
+            "Name": "Major (Inform to Customer)"
+        }
+    ]
+}

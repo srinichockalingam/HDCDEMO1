@@ -1,0 +1,20 @@
+{
+    "WorkdayType":[
+        {
+            "Value": 1,
+            "Name": "Regular"
+        },
+        {
+            "Value": 2,
+            "Name": "Saturday"
+        },
+        {
+            "Value": 3,
+            "Name": "Sundday"
+        },
+        {
+            "Value": 4,
+            "Name": "Public Holiday"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Documents":[
+        {
+            "Value": "CompanyProfile",
+            "Name": "Company Profile"
+        },
+        {
+            "Value": "FactoryLayout",
+            "Name": "Factory Layout"
+        },
+        {
+            "Value": "FlowProcess",
+            "Name": "Flow Process"
+        },
+        {
+            "Value": "OrgChart",
+            "Name": "Org Chart"
+        },
+        {
+            "Value": "ControlPlan",
+            "Name": "Control Plan"
+        },
+        {
+            "Value": "ContingencyPlan",
+            "Name": "Contingency Plan"
+        },
+        {
+            "Value": "FMEA",
+            "Name": "FMEA"
+        },
+        {
+            "Value": "FactoryLicense",
+            "Name": "Factory License"
+        },
+        {
+            "Value": "ProductCertificate",
+            "Name": "Product Certificate"
+        },
+        {
+            "Value": "ISO9001",
+            "Name": "ISO9001"
+        },
+        {
+            "Value": "ISO14000_EMS",
+            "Name": "ISO 14000 (EMS)"
+        },
+        {
+            "Value": "ISO18000_OSHAS",
+            "Name": "ISO 18000 (OSHAS)"
+        },
+        {
+            "Value": "ISO17025_Lab",
+            "Name": "ISO 17025 (Lab)"
+        },
+        {
+            "Value": "C_TPAT",
+            "Name": "C-TPAT"
+        }
+    ]
+}

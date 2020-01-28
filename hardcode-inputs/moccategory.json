@@ -1,0 +1,24 @@
+{
+    "ProcessCategory":[
+        {
+            "Value": 1,
+            "Name": "Corrective Action"
+        },
+        {
+            "Value": 2,
+            "Name": "Preventative Action"
+        },
+        {
+            "Value": 3,
+            "Name": "Design Change"
+        },
+        {
+            "Value": 4,
+            "Name": "Customer Request"
+        },
+        {
+            "Value": 5,
+            "Name": "Other"
+        }
+    ]
+}

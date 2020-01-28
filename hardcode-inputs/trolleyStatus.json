@@ -1,0 +1,28 @@
+{
+  "TrolleyStatus": [
+    {
+      "Value": 1,
+      "Name": "Empty"
+    },
+    {
+      "Value": 2,
+      "Name": "Filled"
+    },
+    {
+      "Value": 3,
+      "Name": "In Dryer"
+    },
+    {
+      "Value": 4,
+      "Name": "Cleaning"
+    },
+    {
+      "Value": 5,
+      "Name": "Damage"
+    },
+    {
+      "Value": 6,
+      "Name": "Disposed"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "AccidentCategory": [
+    {
+      "Value": 1,
+      "Name": "Work Related"
+    },
+    {
+      "Value": 2,
+      "Name": "Non Work Related"
+    }
+  ],
+  "AccidentType": [
+    {
+      "Value": 1,
+      "Name": "Accident"
+    },
+    {
+      "Value": 2,
+      "Name": "Traffic Accident"
+    },
+    {
+      "Value": 3,
+      "Name": "Disease"
+    }
+  ],
+  "AccidentImpact": [
+    {
+      "Value": 1,
+      "Name": "No Lost Workday"
+    },
+    {
+      "Value": 2,
+      "Name": "Lost Workday"
+    },
+    {
+      "Value": 3,
+      "Name": "Fatal Accident"
+    }
+  ]
+}

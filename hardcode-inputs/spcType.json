@@ -1,0 +1,12 @@
+{
+    "SPCType":[
+        {
+            "Value": 1,
+            "Name": "OP"
+        },
+        {
+            "Value": 2,
+            "Name": "Mooney"
+        }
+    ]
+}

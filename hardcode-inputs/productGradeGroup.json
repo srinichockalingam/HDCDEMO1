@@ -1,0 +1,16 @@
+{
+    "ProductGradeGroup":[
+        {
+            "Value": 1,
+            "Name": "Buyer Spec"
+        },
+        {
+            "Value": 2,
+            "Name": "Standard Spec"
+        },
+        {
+            "Value": 3,
+            "Name": "In-house Spec"
+        }
+    ]
+}

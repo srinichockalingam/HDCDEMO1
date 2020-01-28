@@ -1,0 +1,20 @@
+{
+  "EnergyGroup":[
+    {
+      "Value": 1,
+      "Name": "Fuel"
+    },
+    {
+      "Value": 2,
+      "Name": "Coal"
+    },
+    {
+      "Value": 3,
+      "Name": "Gas"
+    },
+    {
+      "Value": 4,
+      "Name": "Biomass"
+    }
+  ]
+}

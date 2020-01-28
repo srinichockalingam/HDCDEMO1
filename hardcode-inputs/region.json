@@ -1,0 +1,24 @@
+{
+    "Region":[
+        {
+            "Value": 1,
+            "Name": "Africa"
+        },
+        {
+            "Value": 2,
+            "Name": "China"
+        },
+        {
+            "Value": 3,
+            "Name": "Indonesia"
+        },
+        {
+            "Value": 4,
+            "Name": "Malaysia"
+        },
+        {
+            "Value": 5,
+            "Name": "Thailand"
+        }
+    ]
+}

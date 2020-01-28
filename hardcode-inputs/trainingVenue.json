@@ -1,0 +1,12 @@
+{
+    "TrainingVenue":[
+        {
+            "Value": 1,
+            "Name": "In-House"
+        },
+        {
+            "Value": 2,
+            "Name": "External"
+        }
+    ]
+}

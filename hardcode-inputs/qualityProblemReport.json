@@ -1,0 +1,62 @@
+{
+  "QPRType": [
+    {
+      "Value": 1,
+      "Name": "Internal"
+    },
+    {
+      "Value": 2,
+      "Name": "External"
+    }
+  ],
+  "QPRStatus": [
+    {
+      "Value": 1,
+      "Name": "Open"
+    },
+    {
+      "Value": 2,
+      "Name": "In Progress"
+    },
+    {
+      "Value": 3,
+      "Name": "Close"
+    },
+    {
+      "Value": 4,
+      "Name": "Invalid"
+    }
+  ],
+  "Category": [
+    {
+      "Value": 1,
+      "Name": "CAR"
+    },
+    {
+      "Value": 2,
+      "Name": "Claim"
+    },
+    {
+      "Value": 3,
+      "Name": "Information"
+    },
+    {
+      "Value": 4,
+      "Name": "Reject"
+    }
+  ],
+  "CAPStatus": [
+    {
+      "Value": 1,
+      "Name": "Open"
+    },
+    {
+      "Value": 2,
+      "Name": "On Going"
+    },
+    {
+      "Value": 3,
+      "Name": "Close"
+    }
+  ]
+}

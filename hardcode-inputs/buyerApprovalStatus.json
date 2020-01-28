@@ -1,0 +1,16 @@
+{
+  "BuyerApprovalStatus": [
+    {
+      "Name": "Approved",
+      "Value": 1
+    },
+    {
+      "Name": "Testing",
+      "Value": 2
+    },
+    {
+      "Name": "Suspend",
+      "Value": 3
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "NCStatus":[
+        {
+            "Value": 1,
+            "Name": "Close"
+        },
+        {
+            "Value": 2,
+            "Name": "Open"
+        }
+    ]
+}

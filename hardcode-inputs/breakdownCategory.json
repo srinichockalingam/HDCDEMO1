@@ -1,0 +1,45 @@
+{
+    "BreakdownCategory":[
+        {
+            "Value": 1,
+            "Name": "Breakdown"
+        },
+        {
+            "Value": 2,
+            "Name": "Shutdown"
+        },
+        {
+            "Value": 3,
+            "Name": "Inspection"
+        },
+        {
+            "Value": 4,
+            "Name": "SystematicReplacements"
+        },
+        {
+            "Value": 5,
+            "Name": "Repairs"
+        },
+        {
+            "Value": 6,
+            "Name": "Modifications"
+        },
+        {
+            "Value": 7,
+            "Name": "Training"
+        },
+        {
+            "Value": 8,
+            "Name": "Projects"
+        },
+        {
+            "Value": 9,
+            "Name": "Technical"
+        },
+        {
+            "Value": 10,
+            "Name": "Others"
+        }
+    ]
+
+}

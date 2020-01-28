@@ -1,0 +1,24 @@
+{
+  "success": {
+    "get": "Successfully Retrieved",
+    "add": "Successfully Added.",
+    "update": "Successfully Updated.",
+    "delete": "Successfully Deleted."
+  },
+  "error": {
+    "server": "Oops, something went wrong while processing your request, please try again later.",
+    "alertValidation": "Please fix the error(s) highlighted to save the details!",
+    "failed": "Your request is not succeed, please try again later. ",
+    "runningno": "[Name] generating failed, please try again later.",
+    "pdfFormat": "Only pdf is allowed."
+  },
+  "validation": {
+    "empty": " cannot be empty.",
+    "duplicate": " cannot be duplicate.",
+    "number": "Only number is allowed.",
+    "duplicate-notification": "Record already exist."
+  },
+  "confirmation": {
+    "delete": "Are you sure to delete [Name]? This cannot be undone."
+  }
+}

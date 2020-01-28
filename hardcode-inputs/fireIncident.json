@@ -1,0 +1,56 @@
+{
+  "IncidentCategory": [
+    {
+      "Value": 1,
+      "Name": "Fire"
+    },
+    {
+      "Value": 2,
+      "Name": "Smoke"
+    }
+  ],
+  "IncidentType": [
+    {
+      "Value": 1,
+      "Name": "Garbage Fire"
+    },
+    {
+      "Value": 2,
+      "Name": "Machine Fire"
+    },
+    {
+      "Value": 3,
+      "Name": "Structure Fire"
+    },
+    {
+      "Value": 4,
+      "Name": "Vegetation Fire"
+    },
+    {
+      "Value": 5,
+      "Name": "Vehicle Fire"
+    },
+    {
+      "Value": 6,
+      "Name": "Others"
+    }
+  ],
+  "PossibleCause": [
+    {
+      "Value": 1,
+      "Name": "Electric"
+    },
+    {
+      "Value": 2,
+      "Name": "Human"
+    },
+    {
+      "Value": 3,
+      "Name": "Mechanic"
+    },
+    {
+      "Value": 4,
+      "Name": "Others"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "Lab":[
+        {
+            "Value": 1,
+            "Name": "Internal"
+        },
+        {
+            "Value": 2,
+            "Name": "External"
+        }
+    ]
+}

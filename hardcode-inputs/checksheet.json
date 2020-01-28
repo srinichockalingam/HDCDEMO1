@@ -1,0 +1,30 @@
+{
+  "MetalDetectorSample":[
+    {
+      "Value": 1,
+      "Name": "Detected"
+    },
+    {
+      "Value": 2,
+      "Name": "Not Detected"
+    },
+    {
+      "Value": 3,
+      "Name": "Not Check"
+    }
+  ],
+  "BaleCheckWS":[
+    {
+      "Value": 1,
+      "Name": "No Whitespot"
+    },
+    {
+      "Value": 2,
+      "Name": "Whitespot"
+    },
+    {
+      "Value": 3,
+      "Name": "Not Check"
+    }
+  ]
+}

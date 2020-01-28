@@ -1,0 +1,16 @@
+{
+  "ChemicalUsedFor": [
+    {
+      "Value": 1,
+      "Name": "Crumb Rubber"
+    },
+    {
+      "Value": 2,
+      "Name": "Latex"
+    },
+    {
+      "Value": 3,
+      "Name": "All"
+    }
+  ]
+}

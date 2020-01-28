@@ -1,0 +1,78 @@
+{
+  "factorysheet": [
+    {
+      "id": "we2efewer90323",
+      "code": "BCHSIN001",
+      "name": "Singapore Branch 001",
+      "factoryAddress": {
+        "address1": "Queen's Town",
+        "address2": "Lily Street",
+        "address3": "#01-53",
+        "city": "Buffalo",
+        "state": "New York",
+        "country": "United States",
+        "zip": "23537"
+      },
+      "officeAddress": {
+        "address1": "Queen's Town",
+        "address2": "Lily Street",
+        "address3": "#01-53",
+        "city": "Buffalo",
+        "state": "New York",
+        "country": "United States",
+        "zip": "23537"
+      },
+      "lat": 1.2332,
+      "lng": 103.2234,
+      "branch": {
+        "id": "2dfwwef90323",
+        "code": "BCHSIN001",
+        "branch": "Singapore Branch 001"
+      },
+      "establishedSince": "2015-10-01",
+      "acquisitionSince": "2019-10-04",
+      "businessType": "Factory",
+      "remarks": "good branch",
+      "inactive": false,
+      "operator": "O-1",
+      "lastUpdated": "2019-10-19"
+    },
+    {
+      "id": "we2efewer90323",
+      "code": "BCHSIN001",
+      "name": "Singapore Branch 001",
+      "factoryAddress": {
+        "address1": "Brooklyn",
+        "address2": "San John Street",
+        "address3": "#21-55",
+        "city": "Albany",
+        "state": "New York",
+        "country": "United States",
+        "zip": "75346"
+      },
+      "officeAddress": {
+        "address1": "Brooklyn",
+        "address2": "San John Street",
+        "address3": "#21-55",
+        "city": "Albany",
+        "state": "New York",
+        "country": "United States",
+        "zip": "75346"
+      },
+      "lat": 1.2332,
+      "lng": 103.2234,
+      "branch": {
+        "id": "r4fewef9t4rf",
+        "code": "BCHUS001",
+        "branch": "US Branch 001"
+      },
+      "establishedSince": "2015-10-01",
+      "acquisitionSince": "2019-10-04",
+      "businessType": "Factory",
+      "remarks": "good branch",
+      "inactive": false,
+      "operator": "O-1",
+      "lastUpdated": "2019-10-19"
+    }
+  ]
+}

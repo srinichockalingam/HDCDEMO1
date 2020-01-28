@@ -1,0 +1,43 @@
+{
+  "WaterSource": [
+    {
+      "Value": 1,
+      "Name": "Municipal water supplies"
+    },
+    {
+      "Value": 2,
+      "Name": "Rainwater"
+    },
+    {
+      "Value": 3,
+      "Name": "Surface water"
+    },
+    {
+      "Value": 4,
+      "Name": "Ground water"
+    },
+    {
+      "Value": 5,
+      "Name": "Waste water from another organisation"
+    }
+  ],
+
+  "EffluentDischargeTo": [
+    {
+      "Value": 1,
+      "Name": "Surface water"
+    },
+    {
+      "Value": 2,
+      "Name": "Ground water"
+    },
+    {
+      "Value": 3,
+      "Name": "Waste water treatment facilities"
+    },
+    {
+      "Value": 4,
+      "Name": "Water reused by another organisation"
+    }
+  ]
+}
